@@ -2,7 +2,7 @@
 
 ## Live Link: https://ataullah1.github.io/Order-summary-card/
 
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Order summary card coding challenge.](./design/desktop-preview.jpg)
 
 ## Hi, Welcome! 👋
 
@@ -10,7 +10,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-## Details about the project `README-template.md`
+## Details about the project >>> [`Please Click Me`](./README-template.md)<<<
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
