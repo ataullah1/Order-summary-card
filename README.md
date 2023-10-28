@@ -1,6 +1,6 @@
 # Order summary card
 
-## Live Link:
+## Live Link: https://ataullah1.github.io/Order-summary-card/
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
@@ -9,6 +9,8 @@
 ### I'm [Md Ataullah](https://www.linkedin.com/in/md-ataullah/)😊
 
 Thanks for checking out this front-end coding challenge.
+
+## Details about the project `README-template.md`
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
